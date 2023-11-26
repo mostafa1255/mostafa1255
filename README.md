@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafa1255" alt="mostafa1255" /></a> </p>
 
-- 🔭 I’m currently working on [Movie App](https://github.com/mostafa1255/movie_App.git)
+- 🔭 I’m currently working on [Nike Store App](https://github.com/mostafa1255/Nike_Store_App)
 
 - 🌱 I’m currently learning **Deep Dive in Clean Architecture**
 
