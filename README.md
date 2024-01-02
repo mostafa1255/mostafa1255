@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **yassermostafa620@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFoKNVfCXs/U1mI8UH0StBaDJIn4oH8wg/watch?utm_content=DAFoKNVfCXs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFoKNVfCXs/U1mI8UH0StBaDJIn4oH8wg/watch?utm_content=DAFoKNVfCXs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 Know about my experiences [https://www.canva.com/design/DAFoKNVfCXs/U1mI8UH0StBaDJIn4oH8wg/watch?utm_content=DAFoKNVfCXs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFoKNVfCXs/U1mI8UH0StBaDJIn4oH8wg/view?utm_content=DAFoKNVfCXs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 - ⚡ Fun fact **Team Work**
 
