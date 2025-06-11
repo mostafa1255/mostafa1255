@@ -12,7 +12,7 @@
 ### 🚀 About Me
 - 💻 Crafting seamless mobile apps with **Flutter** and **Dart**
 - 📚 Sharing my projects at [github.com/mostafa1255](https://github.com/mostafa1255?tab=repositories)
-- 📧 Reach me at **yassermostafa620@gmail.com**
+- 📧 Reach me at **mostafa.yasser.work.dev@gmail.com**
 - 🌟 Fun fact: I thrive on **teamwork** and creative problem-solving!
 
 <p align="center">
